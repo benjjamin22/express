@@ -31,7 +31,9 @@
         "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/nuasa/2.jpg"
     },
     {
-        "id": "653a123f496c7a2b0eef763d",
+        "_id": {
+            "$oid": "653a123f496c7a2b0eef763d"
+        },
         "Name": "Benjamin",
         "Mname": "Oritsejimi",
         "Surname": "Edigbe",
@@ -47,7 +49,8 @@
         "State": "Lagos",
         "Phoneno1": "+2348037722780",
         "Phoneno2": "08037722780",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/nuasa/2.jpg"
+        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/nuasa/2.jpg",
+        "__v": 0
 
     },
     {
@@ -69,7 +72,7 @@
         "State": "Lagos",
         "Phoneno1": "+2348037722780",
         "Phoneno2": "+2348037722780",
-        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/nuasa/2.jpg",
+        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/nuasa/1.jpg",
         "__v": 0
     }
 ]
