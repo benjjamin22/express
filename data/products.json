@@ -31,9 +31,7 @@
         "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/nuasa/2.jpg"
     },
     {
-        "_id": {
-            "$oid": "653a123f496c7a2b0eef763d"
-        },
+        "_id": "653a123f496c7a2b0eef763d",
         "Name": "Benjamin",
         "Mname": "Oritsejimi",
         "Surname": "Edigbe",
@@ -54,9 +52,7 @@
 
     },
     {
-        "_id": {
-            "$oid": "653a1270496c7a2b0eef763f"
-        },
+        "_id": "653a1270496c7a2b0eef763f",
         "Name": "Leonard",
         "Mname": "Mcdonal",
         "Surname": "Decaprio",
