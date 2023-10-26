@@ -31,7 +31,9 @@
         "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/nuasa/2.jpg"
     },
     {
-        "_id": "653a123f496c7a2b0eef763d",
+        "id": {
+            "$oid": "653a123f496c7a2b0eef763d"
+        },
         "Name": "Benjamin",
         "Mname": "Oritsejimi",
         "Surname": "Edigbe",
@@ -48,7 +50,7 @@
         "Phoneno1": "+2348037722780",
         "Phoneno2": "08037722780",
         "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/nuasa/2.jpg",
-        "__v": 0
+
     },
     {
         "_id": {
