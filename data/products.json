@@ -73,7 +73,7 @@
     },
     {
         "_id": {
-          "$oid": "653eda98b1aa9df087a95190"
+            "$oid": "653eda98b1aa9df087a95190"
         },
         "Name": "Nora",
         "Mname": "Allen",
@@ -90,10 +90,10 @@
         "Phoneno1": "0804466780",
         "Phoneno2": "0702345678",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": {
-          "$oid": "65400f5f3426c0cc542519ef"
+            "$oid": "65400f5f3426c0cc542519ef"
         },
         "Name": "Michaeolajumoke",
         "Mname": "Oritsejimi",
@@ -110,11 +110,9 @@
         "Phoneno1": "+2348037722780",
         "Phoneno2": "+2348037722780",
         "__v": 0
-      },
-      {
-        "id": {
-          "$oid": "6540111b274f9528abb49550"
-        },
+    },
+    {
+        "id": "6540111b274f9528abb49550",
         "Name": "LAKINLE",
         "Mname": "JOHNSON",
         "Surname": "EDIGBE",
@@ -130,5 +128,5 @@
         "Phoneno1": "+2348037722780",
         "Phoneno2": "+2348037722780",
         "v": 0
-      }
+    }
 ]
