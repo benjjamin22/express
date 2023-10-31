@@ -123,10 +123,12 @@
         "bloodgroup": "O+",
         "YearofAdmin": "2023",
         "Sex": "MALE",
+        "validity": "2023-2029",
         "LocalGovernment": "OWERRI MUMI",
         "State": "LAGOS",
         "Phoneno1": "+2348037722780",
         "Phoneno2": "+2348037722780",
+        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/nuasa/10.jpg",
         "v": 0
     }
 ]
