@@ -70,5 +70,65 @@
         "Phoneno2": "+2348037722780",
         "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/nuasa/10.jpg",
         "v": 0
-    }
+    },
+    {
+        "_id": {
+          "$oid": "653eda98b1aa9df087a95190"
+        },
+        "Name": "Nora",
+        "Mname": "Allen",
+        "Surname": "Macdonald",
+        "School": "Madonna unuverisity",
+        "Dept": "Law",
+        "RegNo": "02/23456",
+        "Status": "Student",
+        "bloodgroup": "O+",
+        "YearofAdmin": "2023",
+        "Sex": "F",
+        "LocalGovernment": "Abeokut",
+        "State": "Ogun",
+        "Phoneno1": "0804466780",
+        "Phoneno2": "0702345678",
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "65400f5f3426c0cc542519ef"
+        },
+        "Name": "Michaeolajumoke",
+        "Mname": "Oritsejimi",
+        "Surname": "Edigbe",
+        "School": "Falmouth high school",
+        "Dept": "Chemistry",
+        "RegNo": "02/34567",
+        "Status": "PUPIL",
+        "bloodgroup": "O+",
+        "YearofAdmin": "2023",
+        "Sex": "Female",
+        "LocalGovernment": "Owerri mumi",
+        "State": "Lagos",
+        "Phoneno1": "+2348037722780",
+        "Phoneno2": "+2348037722780",
+        "__v": 0
+      },
+      {
+        "id": {
+          "$oid": "6540111b274f9528abb49550"
+        },
+        "Name": "LAKINLE",
+        "Mname": "JOHNSON",
+        "Surname": "EDIGBE",
+        "School": "IMO STATE UNIVERSITY",
+        "Dept": "ACCOUNTANCY",
+        "RegNo": "02/34567",
+        "Status": "STUDENT",
+        "bloodgroup": "O+",
+        "YearofAdmin": "2023",
+        "Sex": "MALE",
+        "LocalGovernment": "OWERRI MUMI",
+        "State": "LAGOS",
+        "Phoneno1": "+2348037722780",
+        "Phoneno2": "+2348037722780",
+        "v": 0
+      }
 ]
