@@ -130,5 +130,97 @@
         "Phoneno2": "+2348037722780",
         "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/nuasa/10.jpg",
         "v": 0
-    }
+    },
+    {
+        "_id": {
+          "$oid": "654269bc2eb670e7915e0c9d"
+        },
+        "Name": "BENJAMIN",
+        "Mname": "ORITSEJIMI",
+        "Surname": "EDIGBE",
+        "School": "FALOMO HIGH SCHOOL",
+        "Dept": "ACCOUNTANCY",
+        "RegNo": "02/23456",
+        "Status": "STUDENT",
+        "bloodgroup": "AB+",
+        "YearofAdmin": "2002",
+        "Validity": "2002-2006",
+        "Sex": "M",
+        "LocalGovernment": "WARRI NORTH",
+        "State": "DELTA",
+        "Phoneno1": "08037722780",
+        "Phoneno2": "080562676552",
+        "id": "4bb299b5-fd51-4a9a-9110-39561d6a4fec",
+        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/nuasa/18.jpg",
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "65426d4aaae197fb03b36f8a"
+        },
+        "Name": "BENJAMIN",
+        "Mname": "ORITSEJIMI",
+        "Surname": "EDIGBE",
+        "School": "IMO STATE UNIVERSITY",
+        "Dept": "ACCOUNTANCY",
+        "RegNo": "02/23456",
+        "Status": "STUDENT",
+        "bloodgroup": "O+",
+        "YearofAdmin": "2023",
+        "Validity": "2023-2029",
+        "Sex": "MALE",
+        "LocalGovernment": "IKORODU",
+        "State": "LAGOS",
+        "Phoneno1": "+2348037722780",
+        "Phoneno2": "08037722780",
+        "id": "8c8bdcfe-3cc7-4621-84c7-2ef708c1a94a",
+        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/nuasa/45.jpg",
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "65432e713de9fc827c9e8d5d"
+        },
+        "Name": "MICHAEL",
+        "Mname": "JAMES",
+        "Surname": "DOUGLAS",
+        "School": "ST GREGORY HIGH SCHOOL",
+        "Dept": "LITERATURE AND ENGLISH ",
+        "RegNo": "23/67894",
+        "Status": "STUDENT",
+        "bloodgroup": "0+",
+        "YearofAdmin": "2023",
+        "Validity": "2023-2029",
+        "Sex": "MALE",
+        "LocalGovernment": "WARRI SOUTH",
+        "State": "DELTA",
+        "Phoneno1": "0906678943",
+        "Phoneno2": "080562645876",
+        "id": "84ca791e-7421-4def-8499-e472d984958d",
+        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/nuasa/33.jpg",
+        "__v": 0
+      },
+      {
+        "_id": {
+          "$oid": "65433d5ae8ccde622ae3f2b7"
+        },
+        "Name": "BENJAMIN",
+        "Mname": "ORITSEJIMI",
+        "Surname": "EDIGBE",
+        "School": "IMO STATE UNIVERSITY",
+        "Dept": "ACCOUNTANCY",
+        "RegNo": "02/23456",
+        "Status": "STUDENT",
+        "bloodgroup": "O+",
+        "YearofAdmin": "2023",
+        "Validity": "2023-2029",
+        "Sex": "MALE",
+        "LocalGovernment": "IKORODU",
+        "State": "LAGOS",
+        "Phoneno1": "+2348037722780",
+        "Phoneno2": "08037722780",
+        "id": "64815eee-80b6-4d49-8113-63c272d2fd2c",
+        "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/nuasa/6.jpg",
+        "__v": 0
+      }
 ]
