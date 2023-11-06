@@ -133,7 +133,7 @@
     },
     {
         "_id": {
-          "$oid": "654269bc2eb670e7915e0c9d"
+            "$oid": "654269bc2eb670e7915e0c9d"
         },
         "Name": "BENJAMIN",
         "Mname": "ORITSEJIMI",
@@ -144,7 +144,7 @@
         "Status": "STUDENT",
         "bloodgroup": "AB+",
         "YearofAdmin": "2002",
-        "Validity": "2002-2006",
+        "validity": "2002-2006",
         "Sex": "M",
         "LocalGovernment": "WARRI NORTH",
         "State": "DELTA",
@@ -153,10 +153,10 @@
         "id": "4bb299b5-fd51-4a9a-9110-39561d6a4fec",
         "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/nuasa/18.jpg",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": {
-          "$oid": "65426d4aaae197fb03b36f8a"
+            "$oid": "65426d4aaae197fb03b36f8a"
         },
         "Name": "BENJAMIN",
         "Mname": "ORITSEJIMI",
@@ -167,7 +167,7 @@
         "Status": "STUDENT",
         "bloodgroup": "O+",
         "YearofAdmin": "2023",
-        "Validity": "2023-2029",
+        "validity": "2023-2029",
         "Sex": "MALE",
         "LocalGovernment": "IKORODU",
         "State": "LAGOS",
@@ -176,10 +176,10 @@
         "id": "8c8bdcfe-3cc7-4621-84c7-2ef708c1a94a",
         "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/nuasa/45.jpg",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": {
-          "$oid": "65432e713de9fc827c9e8d5d"
+            "$oid": "65432e713de9fc827c9e8d5d"
         },
         "Name": "MICHAEL",
         "Mname": "JAMES",
@@ -190,7 +190,7 @@
         "Status": "STUDENT",
         "bloodgroup": "0+",
         "YearofAdmin": "2023",
-        "Validity": "2023-2029",
+        "validity": "2023-2029",
         "Sex": "MALE",
         "LocalGovernment": "WARRI SOUTH",
         "State": "DELTA",
@@ -199,10 +199,10 @@
         "id": "84ca791e-7421-4def-8499-e472d984958d",
         "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/nuasa/33.jpg",
         "__v": 0
-      },
-      {
+    },
+    {
         "_id": {
-          "$oid": "65433d5ae8ccde622ae3f2b7"
+            "$oid": "65433d5ae8ccde622ae3f2b7"
         },
         "Name": "BENJAMIN",
         "Mname": "ORITSEJIMI",
@@ -213,7 +213,7 @@
         "Status": "STUDENT",
         "bloodgroup": "O+",
         "YearofAdmin": "2023",
-        "Validity": "2023-2029",
+        "validity": "2023-2029",
         "Sex": "MALE",
         "LocalGovernment": "IKORODU",
         "State": "LAGOS",
@@ -222,5 +222,5 @@
         "id": "64815eee-80b6-4d49-8113-63c272d2fd2c",
         "picturepath": "https://mydatabase.com.ng/utilitie/nuasa/nuasa/6.jpg",
         "__v": 0
-      }
+    }
 ]
