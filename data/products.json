@@ -22,6 +22,11 @@
     {
         "id": "653a1270496c7a2b0eef763f",
         "reg": "23/1160",
+        "inNamer": {
+            "Name": "BENJAMIN",
+            "Mname": "ORITSEJIMI",
+            "Surname": "EDIGBE"
+        },
         "inName": "BENJAMIN ORITSEJIMI EDIGBE",
         "inSchool": "MYDATABASE INFO. TECH/",
         "Status": "DIRECTOR",
