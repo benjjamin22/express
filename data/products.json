@@ -1,6 +1,11 @@
 [{
         "id": "2",
         "reg": "13478900951",
+        "inNamer": {
+            "Name": "MICHAEL",
+            "Mname": "GBEMISOLA",
+            "Surname": "SAMUEL"
+        },
         "inName": "MICHAEL GBEMISOLA SAMUEL",
         "inSchool": "RIGHTREALM PRIMARY AND SECONDARY",
         "Status": "PUPIL",
